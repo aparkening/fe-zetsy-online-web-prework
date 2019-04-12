@@ -86,6 +86,9 @@ header a:hover {
 }
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
+  transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
+  
+}
 }
 
 /* Footer */
