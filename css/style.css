@@ -73,8 +73,8 @@ header a:hover {
 	text-decoration: none;
 }
 #featured a:hover {
-	text-decoration: underline;
 	transition: text-decoration 0.9s ease;
+	text-decoration: underline;
 }
 
 /* Press */
