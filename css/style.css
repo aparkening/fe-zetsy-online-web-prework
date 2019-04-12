@@ -87,8 +87,7 @@ header a:hover {
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
   transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
-  transition: background-color 0.5s ease;
-  background-color: red;
+  transition: border-color 0.5s ease;
 }
 }
 
