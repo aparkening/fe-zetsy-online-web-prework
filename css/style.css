@@ -76,10 +76,9 @@ header a:hover {
   -webkit-transition: background-color 0.9s ease;
   -moz-transition: background-color 0.9s ease;
   -o-transition: background-color 0.9s ease;
-  transition: font-weight 0.9s ease;
+  transition: background-color 0.9s ease;
 	text-decoration: underline;
 	background-color: #ccc;
-	font-weight: bold;
 }
 
 /* Press */
