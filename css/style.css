@@ -77,8 +77,8 @@ header a:hover {
   -moz-transition: border-color 0.9s ease;
   -o-transition: border-color 0.9s ease;
   transition: border-color 0.9s ease;
-
 	text-decoration: underline;
+	border: 1px solid #ccc;
 }
 
 /* Press */
