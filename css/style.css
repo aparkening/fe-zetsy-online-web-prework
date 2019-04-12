@@ -82,7 +82,7 @@ header a:hover {
   -o-transition: background-color 0.9s ease;
   transition: background-color 0.9s ease;
 	text-decoration: underline;
-	background-color: #ccc;
+	background-color: rgb(247,240,238);
 }
 
 /* Press */
