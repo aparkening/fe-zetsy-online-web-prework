@@ -73,12 +73,12 @@ header a:hover {
 	text-decoration: none;
 }
 #featured a:hover {
-  -webkit-transition: border-color 0.9s ease;
-  -moz-transition: border-color 0.9s ease;
-  -o-transition: border-color 0.9s ease;
-  transition: border-color 0.9s ease;
+  -webkit-transition: background-color 0.9s ease;
+  -moz-transition: background-color 0.9s ease;
+  -o-transition: background-color 0.9s ease;
+  transition: background-color 0.9s ease;
 	text-decoration: underline;
-	border: 1px solid #ccc;
+	background-color: #ccc;
 }
 
 /* Press */
