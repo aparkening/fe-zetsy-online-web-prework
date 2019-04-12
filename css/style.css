@@ -60,6 +60,10 @@ header a {
 }
 
 header a:hover {
+  -webkit-transition: color 0.9s ease;
+  -moz-transition: color 0.9s ease;
+  -o-transition: color 0.9s ease;
+  transition: color 0.9s ease;
 	color: rgb(111,127,122);
 }
 
